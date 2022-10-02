@@ -1,0 +1,2 @@
+# pensioner-life_certificate-
+This project is developed for the pensioner to submit the life_certificate digitally  and also check its status on the same website, there is also different page for the government bodies which are secured with a password so only authories person can login it . This project is developed under the guidance of  Mr. Rahul Kumar ( Asst. IT manager, BSPHCL , Patna)  and Mr. Ajay Kumar (DBA, BSPHCL , Patna)
