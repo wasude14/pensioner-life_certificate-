@@ -1,0 +1,60 @@
+*{
+    margin : 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 80%;
+        /* background-color: rgb(198, 152, 241); */
+        padding: 34px;
+        margin:auto;
+
+}
+.container h2,p{
+    text-align: center;
+}
+h2{
+    font-size: 73px;
+    font-family: 'Rubik Wet Paint', cursive;
+}
+p{
+    font-size: 30px;
+    font-family: 'Beau Rivage', cursive;
+}
+input,textarea{
+    margin:11px  0px;
+    font-size: 12px;
+    width: 80%;
+    padding: 7px;
+    border: 2px solid black;
+    border-radius: 6px;
+    outline: none;
+    
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.btn{
+    color: wheat;
+    background-color: yellowgreen;
+    font-size: 20px;
+    border-radius: 14px;
+    cursor: pointer;
+    padding: 8px 12px;
+    border: 2px solid paleturquoise;
+}
+.bg{
+    position: absolute;
+    width:100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.8;
+}
+.submitmsg{
+  
+    color:green;
+}
